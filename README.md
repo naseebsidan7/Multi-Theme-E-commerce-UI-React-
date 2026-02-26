@@ -54,4 +54,4 @@ Routing is managed using React Router.
 1. Clone the repository:
 
 ```bash
-git clone [repository-link](https://github.com/naseebsidan7/Multi-Theme-E-commerce-UI-React-.git)
+git clone https://github.com/naseebsidan7/Multi-Theme-E-commerce-UI-React-.git
